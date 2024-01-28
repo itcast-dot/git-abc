@@ -7,6 +7,6 @@
   */  
 public class test {
     public static void main(String[] args) {
-        System.out.println("sy zb");
+        System.out.println("sy is zb");
     }
 }
